@@ -20,7 +20,7 @@ The project supports basic arithmetic operations, result tracking, reset functio
 
 # 📸 Preview / معاينة التطبيق
 
-
+![Calculator Preview](calc.png)
 ---
 
 # 🚀 How to run the project / طريقة تشغيل المشروع
