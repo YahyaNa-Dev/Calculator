@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Calculatotr - App\Calculatotr\bin\Debug\Calculatotr.exe.config
+C:\Users\Admin\Desktop\Calculatotr - App\Calculatotr\bin\Debug\Calculatotr.exe
+C:\Users\Admin\Desktop\Calculatotr - App\Calculatotr\bin\Debug\Calculatotr.pdb
+C:\Users\Admin\Desktop\Calculatotr - App\Calculatotr\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Calculatotr - App\Calculatotr\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Calculatotr - App\Calculatotr\obj\Debug\Calculatotr.exe
+C:\Users\Admin\Desktop\Calculatotr - App\Calculatotr\obj\Debug\Calculatotr.pdb
